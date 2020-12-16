@@ -1,0 +1,20 @@
+{
+    "accountLinks": [
+        { "name": "Wishlist", "to": "/shop/wishlist" },
+        { "name": "Cart", "to": "/shop/cart" },
+        { "name": "Shop", "to": "/shop/fullwidth-4col" },
+        { "name": "Checkout", "to": "/shop/checkout" }
+    ],
+    "informationLinks": [
+        { "name": "We Do", "to": "https://www.jellyfish.com/en-us/we-do" },
+        { "name": "We are", "to": "https://www.jellyfish.com/en-us/we-are" },
+        { "name": "Working Here", "to": "https://www.jellyfish.com/en-us/working-at-jellyfish" },
+        { "name": "Contact", "to": "https://www.jellyfish.com/en-us/contact-us" },
+        { "name": "Jellyfish Training", "to": "https://www.jellyfish.com/en-us/training/" }
+    ],
+    "creditLinks": [
+        { "name": "Privacy Policy", "to": "https://www.jellyfish.com/en-us/privacy-policy" },
+        { "name": "Terms & Condition", "to": "https://www.jellyfish.com/en-us/cookie-policy" },
+        { "name": "Modern Slavery", "to": "https://www.jellyfish.com/en-us/modern-slavery-act" }
+    ]
+}
